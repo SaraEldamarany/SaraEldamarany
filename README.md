@@ -11,11 +11,14 @@
 
 
 
+
+##  About Me:
+
+
  **Bachelor's Degree in Computer Science**  
 _Faculty of Computers and Information, Luxor University_
 
 
-##  About Me:
 I'm deeply passionate about **data science**, **analytics**, and exploring how **Power BI**, **SQL**, and **data-driven decisions** can shape business success.
 I thrive on collaborating with like-minded individuals, sharing knowledge, and continually learning to make a **meaningful impact** in the world.
 
