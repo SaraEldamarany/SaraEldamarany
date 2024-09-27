@@ -1,7 +1,6 @@
-<p align="center">
-  <span style="font-size: 38px; font-weight: bold;">Hi there!</span>
-    <img src="https://media.tenor.com/krzD6aaNbKwAAAAi/cosytales-peek-a-boo.gif" width="50">
-</p>
+
+<h2 align="center" style="font-size: 48px; font-weight: bold;">Hi there!  <img src="https://media.tenor.com/krzD6aaNbKwAAAAi/cosytales-peek-a-boo.gif" width="50"></h2>
+
 
 
 
