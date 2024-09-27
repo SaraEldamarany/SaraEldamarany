@@ -3,6 +3,18 @@
     <img src="https://media.tenor.com/krzD6aaNbKwAAAAi/cosytales-peek-a-boo.gif" width="50">
 </p>
 
+<p align="center">
+    <strong style="font-size: 24px; display: inline-block; animation: fade 2s infinite;">I am Sara Eldamarany</strong>
+</p>
+
+<style>
+    @keyframes fade {
+        0% { opacity: 1; }
+        50% { opacity: 0; }
+        100% { opacity: 1; }
+    }
+</style>
+
 
  **Bachelor's Degree in Computer Science**  
 _Faculty of Computers and Information, Luxor University_
