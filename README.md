@@ -1,18 +1,17 @@
 
-<h2 align="center" style="font-size: 48px; font-weight: bold;">Hey!  <img src="https://media.tenor.com/krzD6aaNbKwAAAAi/cosytales-peek-a-boo.gif" width="50"></h2>
-
+<h2 align="center" style="font-size: 48px; font-weight: bold;"> <img src="https://media.tenor.com/krzD6aaNbKwAAAAi/cosytales-peek-a-boo.gif" width="56"></h2>
 
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I'm+Sara+Eldamarany!;I'm+a+Data+Analyst;Welcome+to+my+profile!&center=true&width=500&height=50&color=00008B" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I'm+Sara+Eldamarany!;I'm+a+Data+Analyst;Welcome+to+my+profile!&center=true&width=500&height=50&color=C3B091" />
 </p>
 
 
 
 ##  About Me:
 
-- <p> <img src="https://media.tenor.com/KXwh0N56n7UAAAAi/hampter-sad.gif" width="28"> Fresh graduate</p>
+- <p>Fresh graduate <img src="https://media.tenor.com/KXwh0N56n7UAAAAi/hampter-sad.gif" width="30"> </p>
 
 - **Bachelor's Degree in Computer Science**  
  _Faculty of Computers and Information, Luxor University_
