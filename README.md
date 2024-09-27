@@ -4,10 +4,9 @@
 
 
 
-
-
-
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I'm+Sara+Eldamarany!;I'm+a+Data+Analyst;Welcome+to+my+profile!&font=Fira+Code&color=000000&center=true&width=500&height=50" />
+</p>
 
 
 
