@@ -4,16 +4,6 @@
 </p>
 
 
-<p align="center">
-    <strong style="font-size: 24px;">I'm Sara ELdamarany</strong>
-</p>
-<p align="center">
-    <strong style="font-size: 24px;">I'm Sara ELdamarany</strong>
-</p>
-<p align="center">
-    <strong style="font-size: 24px;">I'm Sara ELdamarany</strong>
-</p>
-
 
 
 
