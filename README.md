@@ -1,5 +1,5 @@
-### Hi  <img src="https://media.tenor.com/krzD6aaNbKwAAAAi/cosytales-peek-a-boo.gif" width="50"></p>
----
+###                                                          Hi there!  <img src="https://media.tenor.com/krzD6aaNbKwAAAAi/cosytales-peek-a-boo.gif" width="50"></p>
+
  
  **Bachelor's Degree in Computer Science**  
 _Faculty of Computers and Information, Luxor University_
