@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi  <img src="https://media.tenor.com/krzD6aaNbKwAAAAi/cosytales-peek-a-boo.gif" width="50"></p>
+---
+ 
+ **Bachelor's Degree in Computer Science**  
+_Faculty of Computers and Information, Luxor University_
 
-<!--
-**SaraEldamarany/SaraEldamarany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+##  About Me:
+I'm deeply passionate about **data science**, **analytics**, and exploring how **Power BI**, **SQL**, and **data-driven decisions** can shape business success.
+I thrive on collaborating with like-minded individuals, sharing knowledge, and continually learning to make a **meaningful impact** in the world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+You can contact me via email at [saraeldamarany@gmail.com](mailto:saraeldamarany@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/saraeldamarany/).
