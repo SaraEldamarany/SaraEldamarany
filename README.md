@@ -1,4 +1,4 @@
-###      Hi there!  <span style="padding-left: 50px;"></span> <img src="https://media.tenor.com/krzD6aaNbKwAAAAi/cosytales-peek-a-boo.gif" width="50"></p>
+###      Hi there!  <span style="padding-left: 250px;"></span> <img src="https://media.tenor.com/krzD6aaNbKwAAAAi/cosytales-peek-a-boo.gif" width="50"></p>
 
  
  **Bachelor's Degree in Computer Science**  
