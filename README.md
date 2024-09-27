@@ -12,9 +12,10 @@
 
 ##  About Me:
 
+- <p> <img src="https://media.tenor.com/KXwh0N56n7UAAAAi/hampter-sad.gif" width="28"> Fresh graduate</p>
 
- **Bachelor's Degree in Computer Science**  
-- _Faculty of Computers and Information, Luxor University_
+- **Bachelor's Degree in Computer Science**  
+ _Faculty of Computers and Information, Luxor University_
 
 
 - I'm deeply passionate about **data science**, **analytics**, and exploring how **Power BI**, **SQL**, and **data-driven decisions** can shape business success.
