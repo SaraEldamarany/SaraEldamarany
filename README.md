@@ -2,14 +2,14 @@
   <img src="gifywll.gif" alt="">
 </p>
 
+<p align="center" style="margin-top: 0; border: none;">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Little+girl;With;big+dream&center=true&width=500&height=50&color=000000&font_style=bold" style="text-shadow: 2px 2px 5px #FFD700; border: none;" />
+</p>
 
-<h2 align="center" style="font-size: 48px; font-weight: bold; margin: 0;">
-  <img src="https://media.tenor.com/krzD6aaNbKwAAAAi/cosytales-peek-a-boo.gif" width="56" style="vertical-align: middle; margin-bottom: -10px;">
+<h2 align="center" style="font-size: 48px; font-weight: bold; margin: 0; border: none;">
+  <img src="https://media.tenor.com/krzD6aaNbKwAAAAi/cosytales-peek-a-boo.gif" width="56" style="vertical-align: middle; margin-bottom: -10px; border: none;">
 </h2>
 
-<p align="center" style="margin-top: 0;">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Little+girl;With;big+dream&center=true&width=500&height=50&color=000000&font_style=bold" style="text-shadow: 2px 2px 5px #FFD700;" />
-</p>
 
 
 
