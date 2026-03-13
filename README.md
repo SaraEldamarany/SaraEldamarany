@@ -1,5 +1,5 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fAB4F5,100:fAB4F5&height=180&section=header&text=Sara%20Eldamarany&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Data%20Engineer%20%7C%20Data%20Analyst%20%7C%20Power%20BI&descAlignY=55&descAlign=50" width="100%" style="display:block; margin:0;" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=180&section=header&text=Sara%20Eldamarany&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Data%20Engineer%20%7C%20Data%20Analyst%20%7C%20Power%20BI&descAlignY=55&descAlign=50" width="100%" style="display:block; margin:0;" />
 
 <p align="center" style="margin:0; line-height:0;">
   <img src="gifywll.gif" alt="" style="display:block; margin:auto;">
@@ -10,8 +10,7 @@
 </h2>
 
 <!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fAB4F5,100:fAB4F5&height=120&section=footer" width="100%" style="display:block; margin:0;" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=120&section=footer" width="100%" style="display:block; margin:0;" />
 ##  About Me:
 
 - <p>Fresh graduate <img src="https://media.tenor.com/KXwh0N56n7UAAAAi/hampter-sad.gif" width="30"> </p>
