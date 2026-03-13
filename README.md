@@ -1,3 +1,6 @@
+<!-- Header --> 
+https://github.com/kyechan99/capsule-render --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,100:FFB6C1&height=180&section=header&text=Sara%20Eldamarany&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Data%20Engineer%20%7C%20Data%20Analyst%20%7C%20Power%20BI&descAlignY=55&descAlign=50" width="100%" />
+
 <p align="center">
   <img src="gifywll.gif" alt="">
 </p>
@@ -8,7 +11,8 @@
 </h2>
 
 
-
+<!-- Footer --> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,100:FFC0CB&height=120&section=footer" width="100%" />
 
 ##  About Me:
 
