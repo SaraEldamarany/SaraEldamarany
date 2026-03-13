@@ -10,6 +10,7 @@
 </h2>
 
 
+##  About Me:
 
 - <p>Fresh graduate <img src="https://media.tenor.com/KXwh0N56n7UAAAAi/hampter-sad.gif" width="30"> </p>
 
@@ -25,4 +26,3 @@ You can contact me via email at [saraeldamarany@gmail.com](mailto:saraeldamarany
 
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=120&section=footer" width="100%" style="display:block; margin:0;" />
-##  About Me:
