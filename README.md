@@ -9,9 +9,7 @@
   <img src="https://media.tenor.com/krzD6aaNbKwAAAAi/cosytales-peek-a-boo.gif" width="56" style="vertical-align:middle; margin-bottom:-10px; border:none;">
 </h2>
 
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=120&section=footer" width="100%" style="display:block; margin:0;" />
-##  About Me:
+
 
 - <p>Fresh graduate <img src="https://media.tenor.com/KXwh0N56n7UAAAAi/hampter-sad.gif" width="30"> </p>
 
@@ -24,3 +22,7 @@ I thrive on collaborating with like-minded individuals, sharing knowledge, and c
 
 ---
 You can contact me via email at [saraeldamarany@gmail.com](mailto:saraeldamarany@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/saraeldamarany/).
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=120&section=footer" width="100%" style="display:block; margin:0;" />
+##  About Me:
