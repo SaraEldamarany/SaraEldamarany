@@ -51,5 +51,13 @@ I work with **SQL, Python, business intelligence, and data pipelines** to develo
 ### Contribution activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaraEldamarany&bg_color=080610&color=bba8ef&line=9067df&point=d3baff&area=true&hide_border=true" alt="Contribution graph" width="100%" />
+
+<a href="https://github.com/SaraEldamarany?tab=overview&from=2026-01-01&to=2026-12-31">
+  <img src="https://ghchart.rshah.org/9B6CFF/SaraEldamarany" alt="Sara Eldamarany GitHub contributions calendar" width="100%" />
+</a>
+
+<br />
+
+<img src="./assets/purple-divider.svg" alt="Two animated purple lines moving in opposite directions" width="100%" />
+
 </div>
