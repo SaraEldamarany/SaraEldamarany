@@ -1,24 +1,55 @@
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=180&section=header&text=Sara%20Eldamarany&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Data%20Engineer%20%7C%20Data%20Analyst%20%7C%20&descAlignY=55&descAlign=50" width="100%" style="display:block; margin:0;" />
+<div align="center">
 
-<h2 align="center" style="font-size:48px; font-weight:bold; margin:0; border:none;">
-  <img src="https://media.tenor.com/krzD6aaNbKwAAAAi/cosytales-peek-a-boo.gif" width="56" style="vertical-align:middle; margin-bottom:-10px; border:none;">
-</h2>
+<img src="./assets/hero.svg" alt="Sara Eldamarany — Data Analyst | Data Engineer" width="100%" />
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6241AB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saraeldamarany/)
+[![Email](https://img.shields.io/badge/Email-171121?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saraeldamarany@gmail.com)
+[![Projects](https://img.shields.io/badge/Projects-7B4FCA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaraEldamarany?tab=repositories)
 
-##  About Me:
+</div>
 
-- <p>Fresh graduate <img src="https://media.tenor.com/KXwh0N56n7UAAAAi/hampter-sad.gif" width="30"> </p>
+### About
 
-- **Bachelor's Degree in Computer Science**  
- _Faculty of Computers and Information, Luxor University_
+I work with **SQL, Python, business intelligence, and data pipelines** to develop reliable data solutions, clear reports, and practical insights.
 
+### Technical stack
 
-- I'm deeply passionate about **data science**, **analytics**, and exploring how **Power BI**, **SQL**, and **data-driven decisions** can shape business success.
-I thrive on collaborating with like-minded individuals, sharing knowledge, and continually learning to make a **meaningful impact** in the world.
+**Data Engineering**  
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-171122?style=flat-square&logo=apachespark&logoColor=E25A1C) ![Kafka](https://img.shields.io/badge/Apache_Kafka-171122?style=flat-square&logo=apachekafka&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-171122?style=flat-square&logo=apachespark&logoColor=B893FF) ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-171122?style=flat-square&logoColor=C8ADFF) ![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-171122?style=flat-square&logoColor=C8ADFF) ![SSIS](https://img.shields.io/badge/SSIS-171122?style=flat-square&logoColor=C8ADFF)  
+`SQL Server` · `ETL / ELT` · `Data Warehousing` · `Data Modeling` · `Data Pipelines` · `Data Quality`
 
----
-You can contact me via email at [saraeldamarany@gmail.com](mailto:saraeldamarany@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/saraeldamarany/).
+**Analytics & BI**  
+`Python` · `Pandas` · `Power BI` · `Excel` · `Data Visualization`
 
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=120&section=footer" width="100%" style="display:block; margin:0;" />
+**Development**  
+`C#` · `Git` · `GitHub`
+
+### Microsoft certifications
+
+| Certification | Credential |
+|:--|:--|
+| **Microsoft Certified: Fabric Data Engineer Associate** | **DP-700** · [Microsoft Learn](https://learn.microsoft.com/en-us/credentials/certifications/fabric-data-engineer-associate/) |
+| **Microsoft Certified: Azure Data Fundamentals** | **DP-900** · [Microsoft Learn](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/) |
+
+### Selected projects
+
+<table>
+<tr>
+<td width="72" align="center"><img src="./assets/exam.svg" width="54" alt="Examination system"/></td>
+<td><b><a href="https://github.com/SaraEldamarany/ITI-Examination-System">ITI Examination System</a></b><br/>C# · SQL Server · SSRS · Power BI</td>
+</tr>
+<tr>
+<td align="center"><img src="./assets/warehouse.svg" width="54" alt="Data warehouse"/></td>
+<td><b><a href="https://github.com/SaraEldamarany/Sales-DWH-SSIS">Sales Data Warehouse</a></b><br/>SSIS · ETL · SQL Server</td>
+</tr>
+<tr>
+<td align="center"><img src="./assets/dashboard.svg" width="54" alt="Analytics dashboard"/></td>
+<td><b><a href="https://github.com/SaraEldamarany/NAFS-Students-Test-Analysis-Dashboard">NAFS Performance Dashboard</a></b><br/>Excel · Data Visualization</td>
+</tr>
+</table>
+
+### Contribution activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaraEldamarany&bg_color=080610&color=bba8ef&line=9067df&point=d3baff&area=true&hide_border=true" alt="Contribution graph" width="100%" />
+</div>
