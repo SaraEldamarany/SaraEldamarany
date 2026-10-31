@@ -53,11 +53,15 @@ I work with **SQL, Python, business intelligence, and data pipelines** to develo
 <div align="center">
 
 
+
 <a href="https://github.com/SaraEldamarany">
-  <img src="./assets/bubbles-contributions.svg"
-       alt="Bubbles flying over my GitHub contributions"
-       width="100%" />
+  <img
+    src="./assets/bubbles-contributions.svg"
+    alt="Bubbles flying over my GitHub contributions"
+    width="100%"
+  />
 </a>
+
 
 
 <br />
