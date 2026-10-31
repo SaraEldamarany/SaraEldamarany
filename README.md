@@ -52,9 +52,13 @@ I work with **SQL, Python, business intelligence, and data pipelines** to develo
 
 <div align="center">
 
-<a href="https://github.com/SaraEldamarany?tab=overview&from=2026-01-01&to=2026-12-31">
-  <img src="https://ghchart.rshah.org/9B6CFF/SaraEldamarany" alt="Sara Eldamarany GitHub contributions calendar" width="100%" />
+
+<a href="https://github.com/SaraEldamarany">
+  <img src="./assets/bubbles-contributions.svg"
+       alt="Bubbles flying over my GitHub contributions"
+       width="100%" />
 </a>
+
 
 <br />
 
