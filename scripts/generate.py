@@ -51,7 +51,7 @@ def build(weeks):
     width = gx + max(len(weeks), 1) * step + 80
     height = 265
     max_count = max((d['contributionCount'] for w in weeks for d in w), default=0)
-    colors = ['#F7F4FF', '#FDE2EE', '#FFF1B8', '#DDF4FF', '#E8DEFF']
+    colors = ['#EEE7FF', '#F7CFE3', '#F6E39A', '#BFE7FF', '#D8C8FF']
     items, active = [], []
     for x, days in enumerate(weeks):
         for y, day in enumerate(days):
@@ -60,7 +60,7 @@ def build(weeks):
             count = day['contributionCount']
             level = 0 if count == 0 else min(4, max(1, math.ceil(count / max(1, max_count) * 4)))
             xx, yy = gx + x * step, gy + y * step
-            items.append(f'<rect x="{xx}" y="{yy}" width="{cell}" height="{cell}" rx="3" fill="{colors[level]}" fill-opacity="0.70"><title>{escape(day.get("date", ""))}: {count} contributions</title></rect>')
+            items.append(f'<rect x="{xx}" y="{yy}" width="{cell}" height="{cell}" rx="3" fill="{colors[level]}" fill-opacity="0.92"><title>{escape(day.get("date", ""))}: {count} contributions</title></rect>')
             if count: active.append((xx + cell/2, yy + cell/2, len(items)-1))
     # Snake-like route across *active* squares: progress smoothly left-to-right, changing altitude.
     # Limit excessive SVG keyframes by sampling while always including the last target.
