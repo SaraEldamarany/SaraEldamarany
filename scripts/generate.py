@@ -51,7 +51,7 @@ def build(weeks):
     width = gx + max(len(weeks), 1) * step + 80
     height = 265
     max_count = max((d['contributionCount'] for w in weeks for d in w), default=0)
-    colors = ['#202b39', '#0f5e69', '#158aa0', '#2bbbd2', '#7be8f0']
+    colors = ['#F7F4FF', '#FDE2EE', '#FFF1B8', '#DDF4FF', '#E8DEFF']
     items, active = [], []
     for x, days in enumerate(weeks):
         for y, day in enumerate(days):
@@ -60,7 +60,7 @@ def build(weeks):
             count = day['contributionCount']
             level = 0 if count == 0 else min(4, max(1, math.ceil(count / max(1, max_count) * 4)))
             xx, yy = gx + x * step, gy + y * step
-            items.append(f'<rect x="{xx}" y="{yy}" width="{cell}" height="{cell}" rx="3" fill="{colors[level]}"><title>{escape(day.get("date", ""))}: {count} contributions</title></rect>')
+            items.append(f'<rect x="{xx}" y="{yy}" width="{cell}" height="{cell}" rx="3" fill="{colors[level]}" fill-opacity="0.70"><title>{escape(day.get("date", ""))}: {count} contributions</title></rect>')
             if count: active.append((xx + cell/2, yy + cell/2, len(items)-1))
     # Snake-like route across *active* squares: progress smoothly left-to-right, changing altitude.
     # Limit excessive SVG keyframes by sampling while always including the last target.
@@ -85,7 +85,7 @@ def build(weeks):
         # Distinct glow at each target, synchronized approximately with the flying route.
         x, y, _ = picks[i]
         begin = (i+1)*interval
-        pulses.append(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="7" fill="#affbff" opacity="0"><animate attributeName="opacity" values="0;0.9;0" keyTimes="0;0.35;1" dur="0.8s" begin="{begin:.3f}s;{begin+duration:.3f}s" repeatCount="indefinite" /></circle>')
+        pulses.append(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="7" fill="#F6C9FF" opacity="0"><animate attributeName="opacity" values="0;0.9;0" keyTimes="0;0.35;1" dur="0.8s" begin="{begin:.3f}s;{begin+duration:.3f}s" repeatCount="indefinite" /></circle>')
     trails = []
     for i, (color, r, op) in enumerate([('#ff8bb7', 9, .35), ('#ffd777', 8, .42), ('#80e6ac', 7, .45), ('#65caff', 6, .55), ('#9d9afa', 5, .57)]):
         # Repeatable delayed movement creates a short rainbow trail behind Bubbles.
