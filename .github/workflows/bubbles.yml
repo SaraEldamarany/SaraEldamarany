@@ -1,23 +1,30 @@
+
 name: Bubbles flying over contributions
+
 on:
   workflow_dispatch:
   schedule:
     - cron: '15 3 * * *'
+
 permissions:
   contents: write
+
 jobs:
   render:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+
       - name: Generate animated SVG from real contribution data
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: ${{ github.repository_owner }}
         run: python scripts/generate.py
+
       - name: Commit updated SVG
         run: |
           git config user.name "github-actions[bot]"
