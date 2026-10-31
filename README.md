@@ -1,12 +1,28 @@
+
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Sara Eldamarany — Data Analyst | Data Engineer" width="100%" />
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6241AB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saraeldamarany/)
-[![Email](https://img.shields.io/badge/Email-171121?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saraeldamarany@gmail.com)
-[![Projects](https://img.shields.io/badge/Projects-7B4FCA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaraEldamarany?tab=repositories)
+  <img
+    src="./assets/hero.svg"
+    alt="Sara Eldamarany — Data Analyst | Data Engineer"
+    width="100%"
+  />
+
+  <p>
+    <a href="https://www.linkedin.com/in/saraeldamarany/">
+      <img src="https://img.shields.io/badge/LinkedIn-6241AB?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:saraeldamarany@gmail.com">
+      <img src="https://img.shields.io/badge/Email-171121?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/SaraEldamarany?tab=repositories">
+      <img src="https://img.shields.io/badge/Projects-7B4FCA?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Projects" />
+    </a>
+  </p>
 
 </div>
+
 ### About
+
 
 I work with **SQL, Python, business intelligence, and data pipelines** to develop reliable data solutions, clear reports, and practical insights.
 ### Technical stack
