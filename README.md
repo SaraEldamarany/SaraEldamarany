@@ -58,6 +58,6 @@ I work with **SQL, Python, business intelligence, and data pipelines** to develo
 
 <br />
 
-<img src="./assets/purple-divider.svg" alt="Two animated purple lines moving in opposite directions" width="100%" />
+<img src="./assets/purple-divider-transparent.gif" alt="Two purple animated lines moving in opposite directions" width="100%" />
 
 </div>
